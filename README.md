@@ -1,0 +1,1 @@
+Embark on an experimental journey with Sacit AI Assistant, a personal project inspired by the dream of creating a JARVIS-like assistant. In this endeavor, I crafted a crude prototype capable of recognizing speech, generating responses, and performing simple tasks such as opening specific URLs or executing predefined commands.

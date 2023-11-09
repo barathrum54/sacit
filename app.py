@@ -30,7 +30,7 @@ def beep(freq, duration):
 
 def gpt4_soru_sor(soru):
     # GPT-4'e soru sorma ve cevap alma
-    openai.api_key = "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"
+    openai.api_key = "sk-***"
     model = "text-davinci-003"
     prompt = f"{soru}"
 
